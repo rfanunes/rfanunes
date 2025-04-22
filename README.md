@@ -17,7 +17,6 @@ Meu nome √© Rafaela Goulart e estou no primeiro semestre de Sistemas de Informa√
 <div style = "display: inline_block">
     <img align="center" alt="html5" src="https://img.shields.io/badge/Canva-7952B3?style=flat&logo=canva">
     <img align="center" alt="html5" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge">
-    <img align="center" alt="html5"src="https://camo.githubusercontent.com/4d79bdeab7a9b036f1b70cd06d4d1e87449c4289882b3252846d3252b5b3e019/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e736f6d6e69612d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d696e736f6d6e6961266c6f676f436f6c6f723d353834394245">
 </div>
 
 ## Contato
