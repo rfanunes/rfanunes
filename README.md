@@ -15,7 +15,6 @@ Meu nome √© Rafaela Goulart e estou no primeiro semestre de Sistemas de Informa√
 ## Bibliotecas/Tecnologias
 
 <div style = "display: inline_block">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Canva-7952B3?style=flat&logo=canva">
     <img align="center" alt="html5" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge">
 </div>
 
