@@ -12,10 +12,10 @@
 
 ###
 
-<div align="center" width="32" height="20>
+<div align="center" width="32" height="20">
   
-  [![Linkedin width="32" height="20 ](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/rafaelannsgoulart/)
-  [![Instagram](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg)](https://www.instagram.com/ahnaorafa/)
+  [![Linkedin](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/rafaelannsgoulart/)
+  [![Instagram](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg)](https://www.instagram.com/ahnaorafa/) 
 </div>
 
 ###
