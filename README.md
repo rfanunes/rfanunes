@@ -12,8 +12,17 @@
 
 ###
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="20" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="32" height="20" alt="instagram logo"  />
+  <a href="https://www.linkedin.com/in/seu-usuario" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/seu_usuario" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" height="40" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:seuemail@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" alt="Gmail" />
+  </a>
 </div>
 ###
 
