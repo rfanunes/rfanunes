@@ -5,7 +5,7 @@
 </div>
 
 <div>
-  <p align="left">Meu nome é Rafaela Goulart e estou no primeiro semestre de Sistemas de Informação na FURG. Gosto bastante de aprender e atualmente estou me aprofundando em Front-End!</p>
+  <p align="left">Meu nome é Rafaela Goulart e estou no primeiro semestre de Sistemas de Informação na FURG.<br> Gosto bastante de aprender e atualmente estou me aprofundando em Front-End!</p>
 </div>
 
 ## Linguagens
