@@ -1,4 +1,4 @@
-<h2 align="left">Oi! Bem vindo(a) ao meu perfil ;)</h2>
+<h2 align="center">Oi! Bem vindo(a) ao meu perfil ;)</h2>
 
 ###
 
@@ -23,7 +23,7 @@
 
 ###
 
-<h3 align="left">Linguagens</h3>
+<h2 align="left">Linguagens</h2>
 
 ###
 
@@ -41,7 +41,7 @@
 
 ###
 
-<h3 align="left">Biblioteca/Tecnologias</h3>
+<h2 align="left">Biblioteca/Tecnologias</h2>
 
 ###
 
