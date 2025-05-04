@@ -17,7 +17,6 @@
 [![Linkedin](https://upload.wikimedia.org/wikipedia/commons/6/60/LinkedIn_icon_2022.svg)](https://www.linkedin.com/in/rafaelannsgoulart/)
 [![Instagram](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png)](https://www.instagram.com/ahnaorafa/)
 
-
   
 </div>
 
