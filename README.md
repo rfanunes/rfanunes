@@ -1,7 +1,7 @@
 ### Oi! :)
 
 <div>
-  <p align="left">Meu nome é Rafaela Goulart e estou no primeiro semestre de Sistemas de Informação na FURG. Gosto bastante de aprender e atualmente estou me aprofundando em Front-End!</p>
+  <p align="center">Meu nome é Rafaela Goulart e estou no primeiro semestre de Sistemas de Informação na FURG. Gosto bastante de aprender e atualmente estou me aprofundando em Front-End!</p>
   <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmV4enQ5aDk5cWRscmQ3cG5sNnJucHN6N2Z5dmR5ZDI3cGMzaXZyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9LZTcawH3mc8V2oUqk/giphy.gif"  />
 </div>
 
