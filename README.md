@@ -14,7 +14,7 @@
 
 <div align="center">
   
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&width=40)](https://www.linkedin.com/in/rafaelannsgoulart/)
+[![Linkedin](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg=white&width=40)](https://www.linkedin.com/in/rafaelannsgoulart/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&width=40)](https://www.instagram.com/ahnaorafa/)
   
 </div>
@@ -48,18 +48,6 @@
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="27" alt="react logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="27" alt="mysql logo"  />
-</div>
-
-###
-
-<h3 align="left">Ferramentas</h3>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="27" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=black&style=for-the-badge" height="27" alt="canva logo"  />
 </div>
 
 ###
