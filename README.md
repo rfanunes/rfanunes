@@ -13,12 +13,14 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/rafaelannsgoulart/" target="_blank" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/rafaelannsgoulart/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="20" alt="linkedin logo" />
   </a>
-  <a href="https://www.instagram.com/ahnaorafa/" target="_blank" style="text-decoration: none;">
+  &nbsp;
+  <a href="https://www.instagram.com/ahnaorafa/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="32" height="20" alt="instagram logo" />
   </a>
+  &nbsp;
 </div>
 
 ###
