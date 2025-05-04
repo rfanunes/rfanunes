@@ -19,14 +19,6 @@
   
 </div>
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31mhfpifjbmsx2kcr5dz3rvdjrkm">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mhfpifjbmsx2kcr5dz3rvdjrkm&count=1&unique=true" alt="Spotify recently played" />
-  </a>
-</div>
-
-
-
 ###
 
 <h2 align="left">Linguagens</h2>
