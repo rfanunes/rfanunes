@@ -12,10 +12,16 @@
 
 ###
 
-<div align="center" width="32" height="20">
-  
-  [![Linkedin](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/rafaelannsgoulart/)
-  [![Instagram](https://carloseduardolemos.github.io/logo_Instagram/)](https://www.instagram.com/ahnaorafa/) 
+<div align="center">
+  <a href="https://www.linkedin.com/in/seu-usuario" target="https://www.linkedin.com/in/rafaelannsgoulart/">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="20" alt="linkedin logo" />
+  </a>
+  <a href="https://www.instagram.com/seu_usuario" target="https://www.instagram.com/ahnaorafa/">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="32" height="20" alt="instagram logo" />
+  </a>
+  <a href="rafaela.nnsgoulart@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="32" height="20" alt="gmail logo" />
+  </a>
 </div>
 
 ###
