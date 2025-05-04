@@ -16,11 +16,15 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&width=40)](https://www.linkedin.com/in/rafaelannsgoulart/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&width=40)](https://www.instagram.com/ahnaorafa/)
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31mhfpifjbmsx2kcr5dz3rvdjrkm&unique={true|1|on|yes})
-
   
 </div>
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31mhfpifjbmsx2kcr5dz3rvdjrkm">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mhfpifjbmsx2kcr5dz3rvdjrkm&count=1&unique=true" alt="Spotify recently played" />
+  </a>
+</div>
+
 
 
 ###
