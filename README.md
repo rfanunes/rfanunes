@@ -19,9 +19,6 @@
   <a href="https://www.instagram.com/ahnaorafa/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="32" height="20" alt="instagram logo" />
   </a>
-  <a href="mailto:rafaela.nnsgoulart@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="32" height="20" alt="gmail logo" />
-  </a>
 </div>
 
 ###
