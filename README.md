@@ -2,6 +2,9 @@
 
 Meu nome é Rafaela Goulart e estou no primeiro semestre de Sistemas de Informação na FURG. Gosto bastante de aprender e atualmente estou me aprofundando em Front-End! 
 
+<div align="right">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
 
 ## Linguagens
 
