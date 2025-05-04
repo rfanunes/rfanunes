@@ -1,4 +1,4 @@
-<h2 align="center">(っ＾▿＾)Oi! Bem vindo(a) ao meu perfil ;)</h2>
+<h2 align="center">(っ＾▿＾) Oi! Bem vindo(a) ao meu perfil ;)</h2>
 
 ###
 
