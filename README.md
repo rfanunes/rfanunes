@@ -5,7 +5,7 @@
 </div>
 
 <div>
-  <img aling="right" height="500" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmV4enQ5aDk5cWRscmQ3cG5sNnJucHN6N2Z5dmR5ZDI3cGMzaXZyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9LZTcawH3mc8V2oUqk/giphy.gif"  />
+  <img aling="center" height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmV4enQ5aDk5cWRscmQ3cG5sNnJucHN6N2Z5dmR5ZDI3cGMzaXZyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9LZTcawH3mc8V2oUqk/giphy.gif"  />
 </div>
 
 ## Linguagens
