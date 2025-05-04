@@ -11,16 +11,10 @@
 </div>
 
 ###
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/rafaelannsgoulart/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="32" height="20" alt="linkedin logo" />
-  </a>
-  <a href="https://www.instagram.com/ahnaorafa/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="32" height="20" alt="instagram logo" />
-  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="20" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="32" height="20" alt="instagram logo"  />
 </div>
-
 ###
 
 <h3 align="left">Linguagens</h3>
