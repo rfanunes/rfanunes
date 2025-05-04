@@ -12,8 +12,11 @@
 
 ###
 
+<div align="center">
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&width=40)](https://www.linkedin.com/in/rafaelannsgoulart/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&width=40)](https://www.instagram.com/ahnaorafa/)
+  
+</div>
 
 
 ###
