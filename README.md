@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Meu nome é Rafaela Goulart e estou cursando Sistemas de Informação na FURG. Gosto bastante de aprender e atualmente estou me aprofundando em Front-End!</h4>
+<h4 align="left">Meu nome é Rafaela Goulart e estou cursando Sistemas de Informação na FURG. Gosto bastante de aprender e atualmente estou me aprofundando no desenvolvimento de jogos!</h4>
 
 ###
 
@@ -42,6 +42,8 @@
 <div align="left">
 
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="27" alt="mysql logo"  />
+  <img src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white" height="27" alt="unity logo" />
+  
 </div>
 
 ###
