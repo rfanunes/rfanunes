@@ -14,8 +14,7 @@
 
 <div align="center">
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&width=40)](https://www.linkedin.com/in/rafaelannsgoulart/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&width=40)](https://www.instagram.com/ahnaorafa/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-#ED53ED?style=for-the-badge&logo=linkedin&logoColor=white&width=40)](https://www.linkedin.com/in/rafaelannsgoulart/)
   
 </div>
 
@@ -25,9 +24,9 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/Python-%23FF7AAF?logo=python&logoColor=white&style=for-the-badge&labelColor=%23FF7AAF" height="27" alt="python logo"  />
-  <img src="https://img.shields.io/badge/JavaScript-%23FF7AAF?logo=javascript&logoColor=black&style=for-the-badge"&labelColor=%23FF7AAF height="27" alt="javascript logo"  />
+  <img src="https://img.shields.io/badge/JavaScript-%23FF7AAF?logo=javascript&logoColor=white&style=for-the-badge"&labelColor=%23FF7AAF height="27" alt="javascript logo"  />
   <img src="https://img.shields.io/badge/HTML5-%23FF7AAF?logo=html5&logoColor=white&style=for-the-badge&labelColor=%23FF7AAF" height="27" alt="html5 logo"  />
   <img src="https://img.shields.io/badge/CSS3-%23FF7AAF?logo=css3&logoColor=white&style=for-the-badge&labelColor=%23FF7AAF" height="27" alt="css3 logo"  />
   <img src="https://img.shields.io/badge/Flutter-%23FF7AAF?style=for-the-badge&logo=flutter&logoColor=white&labelColor=%23FF7AAF" height="27" alt="flutter logo"/>
@@ -43,12 +42,13 @@
 
 ###
 
-<div align="left">
+<div align="center">
 
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="27" alt="mysql logo"  />
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" height="27" alt="unity logo" />
-  <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" height="27" alt="reactjs logo" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" height="27" alt="flutter logo" />
+<img alt="Static Badge" src="https://img.shields.io/badge/Figma-%23FF7AAF?style=for-the-badge&logo=figma&logoColor=white&labelColor=%23FF7AAF" height="27">
+<img alt="Static Badge" src="https://img.shields.io/badge/Inkscape-%23FF7AAF?style=for-the-badge&logo=inkscape&logoColor=white&labelColor=%23FF7AAF" height="27">
+
+
+
   
 </div>
 
