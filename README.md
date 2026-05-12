@@ -14,7 +14,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ED53ED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=ED53ED)](https://www.linkedin.com/in/rafaelannsgoulart/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-CB62AB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=CB62AB)](https://www.linkedin.com/in/rafaelannsgoulart/)
 </div>
 
 ###
