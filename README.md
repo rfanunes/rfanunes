@@ -44,8 +44,8 @@
 
 <div align="center">
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Figma-%23FF7AAF?style=for-the-badge&logo=figma&logoColor=white&labelColor=%23FF7AAF" height="27">
-<img alt="Static Badge" src="https://img.shields.io/badge/Inkscape-%23FF7AAF?style=for-the-badge&logo=inkscape&logoColor=white&labelColor=%23FF7AAF" height="27">
+<img alt="Static Badge" src="https://img.shields.io/badge/Figma-%23FF7AAF?style=for-the-badge&logo=figma&logoColor=white&labelColor=%23FF7AAF" height="27"/>
+<img alt="Static Badge" src="https://img.shields.io/badge/Inkscape-%23FF7AAF?style=for-the-badge&logo=inkscape&logoColor=white&labelColor=%23FF7AAF" height="27"/>
 
 
 
