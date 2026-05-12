@@ -21,21 +21,25 @@
 
 ###
 
-<h2 align="left">Linguagens</h2>
+<h2 align="left">Linguagens e Tecnologias</h2>
 
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=black&style=for-the-badge" height="27" alt="php logo"  />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="27" alt="python logo"  />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="27" alt="javascript logo"  />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="27" alt="html5 logo"  />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="27" alt="css3 logo"  />
+  <img src="https://img.shields.io/badge/Python-%23FF7AAF?logo=python&logoColor=white&style=for-the-badge&labelColor=%23FF7AAF" height="27" alt="python logo"  />
+  <img src="https://img.shields.io/badge/JavaScript-%23FF7AAF?logo=javascript&logoColor=black&style=for-the-badge"&labelColor=%23FF7AAF height="27" alt="javascript logo"  />
+  <img src="https://img.shields.io/badge/HTML5-%23FF7AAF?logo=html5&logoColor=white&style=for-the-badge&labelColor=%23FF7AAF" height="27" alt="html5 logo"  />
+  <img src="https://img.shields.io/badge/CSS3-%23FF7AAF?logo=css3&logoColor=white&style=for-the-badge&labelColor=%23FF7AAF" height="27" alt="css3 logo"  />
+  <img src="https://img.shields.io/badge/Flutter-%23FF7AAF?style=for-the-badge&logo=flutter&logoColor=white&labelColor=%23FF7AAF" height="27" alt="flutter logo"/>
+  <img src="https://img.shields.io/badge/React-%23FF7AAF?style=for-the-badge&logo=react&logoColor=white&labelColor=%23FF7AAF" height="27" alt="react logo"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-%23FF7AAF?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=%23FF7AAF" height="27" alt="postgresql"/>
+    
+
 </div>
 
 ###
 
-<h2 align="left">Biblioteca/Tecnologias</h2>
+<h2 align="left">Ferramentas</h2>
 
 ###
 
