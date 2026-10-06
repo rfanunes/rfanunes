@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Meu nome é Rafaela Goulart e estou cursando Sistemas de Informação na FURG. Gosto bastante de aprender e atualmente estou me aprofundando em front-end!</h4>
+<h4 align="left">Meu nome é Rafaela Goulart e estou cursando Sistemas de Informação na FURG.</h4>
 
 ###
 
